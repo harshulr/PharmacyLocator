@@ -1,4 +1,6 @@
 # PharmacyLocator
+This app is designed to get nearest pharmacy from the user location provide in latitude and longitude
+
 Main Service LocatorService.cs, Location for the file is https://github.com/harshulr/PharmacyLocator/tree/master/PharmacyLocator/Services
 
 Running the project
