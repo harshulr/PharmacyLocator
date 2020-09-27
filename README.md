@@ -18,4 +18,6 @@ Running the project
     keep increasing till we find a pharmacy, but since the co-ordinates were so near and not many pharmacies I went with checking distance of user to all the pharmacies)
     
     Return the nearest pharmacy as JSON object.
+
+    Two screenshots of the test cases are attached on the main page of the project with name Example.png, Example2.png
     
